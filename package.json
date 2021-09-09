@@ -1,0 +1,29 @@
+{
+  "name": "maksimko312-test-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maksymtatarchuk/maksimko312-test-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maksymtatarchuk/maksimko312-test-bot/issues"
+  },
+  "homepage": "https://github.com/maksymtatarchuk/maksimko312-test-bot#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "node": "^16.6.1",
+    "telegraf": "^4.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
